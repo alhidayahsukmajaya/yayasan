@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "scrollreveal": "^4.0.9",
+    "wow.js": "^1.2.2"
+  }
+}
